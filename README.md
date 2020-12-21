@@ -1,4 +1,4 @@
-# Aplikasi CRUD dengan PHP Data Objects (PDO) dan Bootstrap Modal
+# Aplicando CRUD desenvolvido PHP Data Objects (PDO) com Bootstrap Modal
 Aplikasi CRUD dengan PHP Data Objects (PDO) dan Bootstrap Modal ini dibangun menggunakan bahasa pemrograman PHP dan database MySQL. Untuk cara mengakses databasenya menggunakan PDO (PHP Data Objects) dengan menerapkan prepared statements untuk membuat query. Tujuannya agar query menjadi lebih aman dan cepat (jika perintah yang sama akan digunakan beberapa kali). Desain tampilan aplikasi ini menggunakan CSS Bootstrap. Pada aplikasi ini menerapkan Bootstrap Modal untuk membuat form input data.
 
 # Fitur Aplikasi
